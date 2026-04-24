@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dronov-dmitry.github.io/fertig-lance/sitemap.xml
